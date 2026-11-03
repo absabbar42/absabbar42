@@ -24,22 +24,18 @@
 
 **Currently learning:** React and game development.
 
-## GitHub Stats
+## GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=absabbar42&amp;bg_color=ffffff&amp;title_color=111111&amp;text_color=333333&amp;icon_color=333333&amp;border_color=999999&amp;show_icons=true">
-  <img src="https://github-readme-stats.shion.dev/api?username=absabbar42&amp;bg_color=0d0d0d&amp;title_color=ffffff&amp;text_color=cccccc&amp;icon_color=ffffff&amp;border_color=555555&amp;show_icons=true" alt="GitHub stats">
-</picture>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20Profile-202020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/absabbar42)
+[![Repositories](https://img.shields.io/badge/GitHub-Repositories-303030?style=for-the-badge&logo=github&logoColor=white)](https://github.com/absabbar42?tab=repositories)
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=absabbar42&amp;background=FFFFFF&amp;ring=333333&amp;fire=333333&amp;currStreakLabel=111111&amp;sideLabels=333333&amp;dates=555555&amp;stroke=999999&amp;border=999999">
-  <img src="https://streak-stats.demolab.com?user=absabbar42&amp;background=0D0D0D&amp;ring=FFFFFF&amp;fire=FFFFFF&amp;currStreakLabel=FFFFFF&amp;sideLabels=CCCCCC&amp;dates=AAAAAA&amp;stroke=555555&amp;border=555555" alt="GitHub streak">
-</picture>
+[View my contribution activity](https://github.com/absabbar42?tab=overview)
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=absabbar42&amp;layout=compact&amp;bg_color=ffffff&amp;title_color=111111&amp;text_color=333333&amp;border_color=999999&amp;hide_border=false">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=absabbar42&amp;layout=compact&amp;bg_color=0d0d0d&amp;title_color=ffffff&amp;text_color=cccccc&amp;border_color=555555&amp;hide_border=false" alt="Most used languages">
-</picture>
+### Languages & Tools
+
+C · C++ · Python · HTML · CSS · JavaScript · PHP · SQL · MySQL · React (learning)
+
+> GitHub's repository language statistics reflect code in public repositories, not overall proficiency. I've left out third-party stats and streak images that were showing incorrect totals or failing to load.
 
 ## Developer Quote
 
